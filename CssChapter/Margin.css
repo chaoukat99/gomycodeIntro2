@@ -1,0 +1,73 @@
+/* *{
+    margin: 0;
+} */
+
+/*  Margin (marge externe) top left right bottom
+   Padding (marge interne)
+*/
+.cls{
+    width: 200px;
+    height: 100px;
+    background-color: blue;
+    /* margin-top: 300px;
+    margin-left: 500px; */
+    /* margin:100px auto; pour center element */
+    /* margin: 100px 20px 10px 600px; */
+}
+.cls3{
+    width: 200px;
+    height: 100px;
+    background-color: red;
+    /* padding-left: 33px; */
+
+}
+
+
+
+input{
+    padding: 10px;
+}
+
+button{
+    width: 300px;
+    padding: 10px;
+    background-color: rgb(30, 167, 231);
+    color: white;
+    border: 0;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+
+button:hover{
+    background-color: rgb(26, 139, 209);
+    color: black;
+}
+
+
+
+
+
+
+/* input:hover{
+    box-shadow: 1px 1px 10px red;
+} */
+/* 
+
+placeholder{
+    color: red;
+    text-align: center;
+} */
+
+
+
+::placeholder{
+    color: red;
+    text-align: center;
+}
+
+
+h3::selection{
+    background-color: rgb(34, 213, 241);
+    color: black;
+}

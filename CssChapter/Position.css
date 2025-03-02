@@ -1,0 +1,53 @@
+.cls{
+
+    width: 60px;
+    height: 60px;
+    background-color: red;
+    
+
+    position: relative;
+    top: 200px;
+    /* margin-top: 200px; */
+
+
+}
+.cls2{
+    width: 60px;
+    height: 60px;
+    background-color: blue; 
+    position: fixed;
+    left: 50px;
+    bottom: 10px;
+}
+
+a{
+    padding: 30px;
+    background-color: rgb(18, 179, 18);
+    border-radius: 50%;
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+}
+i{
+color: white;
+font-size: 30pt;
+}
+
+
+
+/* Position
+
+-static
+-relative
+-absolute
+-fixed
+-sticky(html5) 
+
+*/
+
+nav{
+    background-color: red;
+    height: 100px;
+    position: sticky;
+    top: 0px;
+}

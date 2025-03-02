@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+}
+/* 
+
+colors & Backgrounds
+
+/* couleur
+
+- par le nom   black
+- rgb (red green blue)    rgb() 0 255
+- hex () 0 f #
+*/
+/* 
+width
+height */
+
+
+/* 
+
+
+
+*/
+
+
+
+h1{
+    color:#0b0bba;
+}
+
+
+h1{
+    color: rgb(78, 223, 41);
+}
+
+
+body{
+    background-color: rgb(244, 244, 244);
+}
+
+
+
+
+img{
+    width:100px ; /*largeur*/
+    height: 100px; /* longueur */
+}
+
+/* 
+
+Background (color,image)
+*/
+section{
+   
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    /* background-image: url(https://mytjnow.com/wp-content/uploads/2020/10/President-Trump-Official-Portrait-200x200-1.jpg); */
+    /* background-repeat: no-repeat;
+    background-size: cover; */
+
+ /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background-image: linear-gradient(to bottom,black,white);
+   
+    border-radius: 50%;
+        
+   
+}
+
+
+section:hover{
+    background-color: red;
+}
+   
+@keyframes float {
+    0%{
+        scale: 0.5;
+    }
+    50%{
+        scale: 1;
+    }
+    100%{
+        scale: 1.09;
+    }
+}
+
+body{
+background: #00F260;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #0575E6, #00F260);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #0575E6, #00F260); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+p:hover{
+    font-size: 20px;
+    color: red;
+}

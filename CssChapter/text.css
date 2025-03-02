@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Lemonada:wght@300..700&display=swap');
+/* 
+FOnts (Les textes)
+
+size 
+family
+weight  bold
+style
+text-decoration
+text-align 
+text-transform
+text-shadow
+
+
+
+*/
+
+
+
+p{
+    font-size: 30px;
+    font-family:cursive;
+    font-weight:bold;
+    font-style: italic;
+    text-decoration: overline; /*  underline overline line-throught*/
+    text-align: center; /* left center right*/
+    text-transform: capitalize; /*  uppercase(Maj)  lowercase(Min)  Capitalize(Commence avec Maj)*/
+    text-shadow: 1px 1px 10px blue,20px 20px 10px red,-20px -20px 10px green,-20px 1px 10px orange;
+    color: white;
+}
+
+section{
+
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    text-align: center;
+}
+
+/* body{
+    background-color: black;
+} */
+
+/* a{
+
+    text-decoration: none;
+    color: green;
+} */
+
+a:hover{
+    text-decoration: underline;
+}
+
+
+
+
+ /* h3{
+    color: rgb(40, 225, 23);
+}  */
+
+
+#first{
+    color: red;
+}
+
+.cls{
+    color: green;
+}
+
+a{
+    text-decoration: line-through;
+    color: red;
+}
+
+
+
+a{
+    font-size: 100px;
+    font-weight: bold;
+    color: black;
+    font-style: normal;
+    text-decoration: none;
+    font-family: cursive;
+    text-transform: capitalize;
+    color: white;
+    text-shadow: 1px 1px 10px red;
+}
+
+
+section{
+    box-shadow:1px 1px 10px black;
+}

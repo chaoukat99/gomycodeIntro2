@@ -1,0 +1,43 @@
+.madiv{
+    width: 200px;
+    height: 100px;
+    background-color: #eee;
+    /* box-shadow: 1px 1px 10px black ; */
+    /* border-style:solid;
+    border-color: red;
+    border-width: 2px; */
+      border:solid 5px red;
+    /* border-bottom: solid 5px red; */
+    /* border-top: solid 5px green; */
+
+    border-radius: 10px;
+}
+
+
+
+/* Bordure
+ type (style)
+ color
+ width
+
+*/
+
+
+table{
+    border-collapse:collapse;
+    width: 100%;
+}
+td , th{
+    border: solid 2px red;
+    height: 100px;
+    width: 200px;
+}
+
+
+.madiv2{
+    width: 330px;
+    height: 330px;
+    background-image: url(https://img-19.ccm2.net/8trT73OJjQ9RladAYYrlpCwEjRk=/330x330/e787e4204e42415494a35bdebd6e1068/auth-avatar/f12b4b50446675e3dbedf0a081db1957-Gabriel66335);
+    border: double 5px teal;
+    border-radius: 50%;
+}

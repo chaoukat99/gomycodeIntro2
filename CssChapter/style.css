@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+}
+/*
+Syntax:
+
+Selecteur{
+  property:value;
+}
+
+*/
+
+
+
+
+/* 
+
+Selectionner les elements HTML 
+
+
+-By tagname avec le nom de la balise 
+
+-Id     #nom_de_L'id
+
+-class    .nomDeLaClasse
+
+-Chainer   section nav a {}
+
+*/
+
+
+/* p{
+    color: red;
+} */
+
+
+
+/* #my_para{
+    color: blue;
+}
+
+
+#link2{
+    color: blue;
+}
+
+#my_title{
+    color: blue;
+}
+
+ */
+/* .cls{
+    color:blue;
+}
+
+
+
+
+.class1{
+    color: green;
+} */
+
+
+article{
+    width: 450px;
+    border:solid 2px rgb(216, 17, 216);
+    border-radius: 10px;
+    padding: 3px;
+}
+
+
+article h1{
+    color: rgb(216, 17, 216);
+    font-size: 40pt;
+    margin-left: 20px;
+}
+
+
+article h3{
+    color: rgb(216, 17, 216);
+    font-size: 30px;
+    margin-left: 12px;
+    font-family: cursive;
+}
+
+
+article p{
+    color: grey;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: cursive;
+    width: 100%;
+}
+
+
+
+/* 
+
+-colors & backgrounds 
+-fonts(textes)
+-Bordures
+-Margin(internes et externes )
+-box-shadow 
+-Positionnement
+-cursor
+-Visibilty && display 
+
+-pseudo Classes 
+-pseudo elements
+
+-Layout 
+-flex box 
+-media queries 
+
+Boostrap
+
+
+
+*/

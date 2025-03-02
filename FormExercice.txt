@@ -1,0 +1,60 @@
+Exercice1 : 
+
+Créer un formulaire de Connexion 
+
+Titre Important  (page de connexion )
+
+formulaire qui contient deux champs:
+
+username/email 
+
+password
+
+button qui contient le message (Se connecter )
+
+
+-----------------------------------------------------------
+
+Quiz:
+
+
+1-Lorem Ipsum SHSJ ?
+- radio Reponse 1
+- radio Reponse 2
+- radio Reponse 3
+- radio Reponse 4
+2-Lorem Ipsum SHSJ ?
+- Reponse 1
+- Reponse 2
+- Reponse 3
+- Reponse 4
+3-Lorem Ipsum SHSJ ?
+- Reponse 1
+- Reponse 2
+- Reponse 3
+- Reponse 4
+4-Lorem Ipsum SHSJ ?
+- Reponse 1
+- Reponse 2
+- Reponse 3
+- Reponse 4
+
+
+
+
+Exercice 3: 
+
+
+Formulaire de contact 
+
+
+titre important(Contact)
+
+formulaire de 5 champs et un button
+
+-nom complet
+-email
+-phone number
+-subject
+-message (texte plus long )
+-button(Envoyer le message )
