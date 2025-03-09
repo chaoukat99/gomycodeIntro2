@@ -99,14 +99,14 @@ article p{
 -colors & backgrounds 
 -fonts(textes)
 -Bordures
--Margin(internes et externes )
+-Margin(internes et externes(Padding) ) 
 -box-shadow 
 -Positionnement
 -cursor
 -Visibilty && display 
 
--pseudo Classes 
--pseudo elements
+-pseudo Classes  hover
+-pseudo elements ::selection    
 
 -Layout 
 -flex box 

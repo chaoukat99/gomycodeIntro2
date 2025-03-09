@@ -14,7 +14,19 @@
         height: 100px;
         background-color: red;
         /*visibility: hidden;*/
-        opacity: 1;
+       /* opacity: 0;*/
+       /* dsiplay:none */
+      
+        }
+
+        ::selection{
+        color: red;
+        background-color: yellow;
+        }
+        ::placeholder{
+        color: red;
+        font-family: cursive;
+        text-align: center;
         }
     </style>
 </head>
@@ -22,5 +34,7 @@
     <div>
         Hello
     </div>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorum, voluptates. Corporis, eius deserunt doloremque iusto nostrum culpa nam ut impedit.</p>
+    <input type="text" placeholder="Saisir le nom">
 </body>
 </html>
